@@ -46,8 +46,7 @@ body{
  /*Champions League*/
  .camp-principal{
      font-size: 16px;
-     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-champions.jpg');
-
+     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg');
      height: 400px;
      background-size: cover;
 
